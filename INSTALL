@@ -1,0 +1,9 @@
+Building Walletbuildercoin
+
+See doc/readme-qt.rst for instructions on building Walletbuildercoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Walletbuildercoin.
+
+See doc/build-*.txt for instructions on building walletbuildercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Walletbuildercoin.
